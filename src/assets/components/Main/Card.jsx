@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Stakan from "../../icon/stakan";
 import { urls } from "../../constants/urls";
 import { API } from "../../../API";
 import { Link } from "react-router-dom";
